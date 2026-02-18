@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jsindi15@gmail.com**
 
-- 📄 Know about my experiences [Resume] ([https://drive.google.com/file/d/1c2lVFnbzCWPqGZzXz3h5sHsaM9Gqpk1I/view?usp=sharing](https://drive.google.com/file/d/1c2lVFnbzCWPqGZzXz3h5sHsaM9Gqpk1I/view?usp=sharing))
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1c2lVFnbzCWPqGZzXz3h5sHsaM9Gqpk1I/view?usp=sharing](https://drive.google.com/file/d/1c2lVFnbzCWPqGZzXz3h5sHsaM9Gqpk1I/view?usp=sharing))
 
 - ⚡ Fun fact **I like breaking things to understand how they work!**
 
