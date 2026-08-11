@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋🏼, I'm Jure Sindi!</h1>
-<h3 align="center">Software Engineer | Systems & Security-Focused | NYU Graduate</h3>
+<h3 align="center">Cybersecurity Engineer | Systems & AI Security | M.S. Cybersecurity @ NYU</h3>
 
 - 🌱 I’m currently learning **advanced systems debugging, distributed systems fundamentals, backend scalability**
 
