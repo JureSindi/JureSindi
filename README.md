@@ -1,5 +1,10 @@
 <h1 align="center">Hi there 👋🏼, I'm Jure Sindi!</h1>
-<h3 align="center">Cybersecurity Engineer | Systems & AI Security | M.S. Cybersecurity @ NYU</h3>
+<h3 align="center">Cybersecurity Engineer | Systems & Security | AI Security</h3>
+
+M.S. Cybersecurity @ NYU Tandon | Co-Founder & CIO @ Viberan
+
+I build and secure software systems, with a focus on application security,
+systems security, AI security, and backend engineering.
 
 - 🌱 I’m currently learning **advanced systems debugging, distributed systems fundamentals, backend scalability**
 
